@@ -13,7 +13,7 @@ Identify risky loan applicants, so that such loans can be reduced to cut the amo
 
 <!-- You can include any other section that is pertinent to your problem -->
 ## Problem Statement
- A consumer finance company specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant's profile.\
+ A consumer finance company specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant's profile.
  
  The data given is given for past loan applicants whose loan was approved and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
@@ -28,16 +28,20 @@ Two types of risks are associated with bank decision.
 ## Analysis Approach
 
 1. Exploratory data analysis on the data set.      
-2. Data Understanding
+2. Data Understanding:
+
     Address Quality issues
     Handle outliers
-3. Data cleaning and manipulation.    
+3. Data cleaning and manipulation.
+ 
     Format the data based on data types like date, float, int.   
     Derive columns based on the existing columns. 
 4. Data analysis
+
     Univariate analysis
     Bivaraiate analysis
 5. Conclusions
+
     Conclusion based on patterns and drivers
 
 ## Conclusions
@@ -78,12 +82,12 @@ Two types of risks are associated with bank decision.
 
 ## Acknowledgements
 - This project is done for lending club case study.
-- Coursera (https://www.coursera.org/learn/credit-risk-management/home/welcome)
+- Thanks to the course in Coursera (https://www.coursera.org/learn/credit-risk-management/home/welcome) for helping in understanding the credit framework and to stackoverflow in helping to resolve the technical queries.
 
 
 
 ## Contact
-Created by [@yashyennam][@idhaya-r] - feel free to contact me!
+Created by [@yashyennam][@idhaya-r] - feel free to contact us!
 
 
 <!-- Optional -->
